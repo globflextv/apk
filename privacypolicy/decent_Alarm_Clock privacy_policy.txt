@@ -1,0 +1,32 @@
+Privacy policy
+
+General
+
+Decent Alarm Clock is developed by one main developer, with a few people helping from time to time, mostly with translations.
+
+Privacy Policy ("Policy") describes how information obtained from users is collected, used and disclosed.
+
+By using Decent Alarm Clock, you agree that your personal information will be handled as described in this Policy.
+
+Information being collected
+
+Decent Alarm Clock does not collect any personal identifiable information.
+
+The `INTERNET` permission is used for fetching the Assets from server.
+The 'ACCESS_WIFI_STATE' permission is used to check the working of wifi.
+
+
+Changes to the Policy
+
+If the Policy changes, the modification date below will be updated. The Policy may change from time to time, so please be sure to check back periodically.
+
+Last modified: 19 Sep, 2018.
+
+Contact
+
+If you have any questions about the Policy, please contact me via virtualsoftwaretechnologies@gmail.com.
+
+Disclaimer:
+The content provides in this "Decent Alarm Clock" application has the copyright of owners(Virtual Soft Technology). 
+ 
+Thank You!
