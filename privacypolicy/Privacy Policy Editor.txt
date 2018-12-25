@@ -1,0 +1,36 @@
+Privacy policy
+
+General
+
+Christmas Photo Editor & Stickers is developed by one main developer, with a few people helping from time to time, mostly with translations.
+
+Privacy Policy ("Policy") describes how information obtained from users is collected, used and disclosed.
+
+By using Christmas Photo Editor & Stickers, you agree that your personal information will be handled as described in this Policy.
+
+Information being collected
+
+Christmas Photo Editor & Stickers does not collect any personal identifiable information.
+
+The `INTERNET` permission is used for fetching the Assets from server.
+The 'ACCESS_WIFI_STATE' permission is used to check the working of wifi.
+The 'ACCESS_NETWORK_STATE' permission is used to check the working of internet.
+The 'ACCESS_COARSE_LOCATION','BLUETOOTH','RECEIVE_BOOT_COMPLETED','ACCESS_FINE_LOCATION','WRITE_EXTERNAL_STORAGE"' permission is used to display the ads.
+
+
+
+Changes to the Policy
+
+If the Policy changes, the modification date below will be updated. The Policy may change from time to time, so please be sure to check back periodically.
+
+Last modified: 25 December, 2018.
+
+Contact
+
+If you have any questions about the Policy, please contact me via virtualsoftwaretechnologies@gmail.com.
+
+Disclaimer:
+The content provides in this "Christmas Photo Editor & Stickers" application has the copyright of Virtual Soft Technologies. 
+We can claim right's on any file, documents or video in this application. 
+
+Thank You!
